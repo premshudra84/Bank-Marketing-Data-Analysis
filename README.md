@@ -130,3 +130,10 @@ Bank-Marketing-Data-Analysis/
 │   └── Bank_Marketing_Data_Analysis_Project_Report.docx
 │
 └── README.md
+---
+
+## 👤 Project Author
+
+**Prem Shudra**
+
+BCA Student | Aspiring Data Analyst
